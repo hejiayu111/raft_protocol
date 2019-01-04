@@ -1,6 +1,6 @@
 # CSE 224 Homework 8
 
-Basic starter code for Homework 8
+Raft node code
 
 raftnode.py should implement the code for a single RAFT node.
 
